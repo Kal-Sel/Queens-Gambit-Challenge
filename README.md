@@ -1,5 +1,7 @@
 # Queens-Gambit-Challenge
 
+The Dashboard can be accessed [here!](https://app.powerbi.com/view?r=eyJrIjoiM2ViNTI1YjQtYjVhMS00ZjM3LTg1ZjItNzUzOWM0ZDMxOGZhIiwidCI6IjdlMWM0MDhjLTkyNDItNDcyYS05NmI4LWQzZjczZWQzYWQyZiJ9)
+
 **About the dataset**  
 
 * We’re looking at over 20,000 online chess games played on Lichess
